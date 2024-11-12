@@ -26,9 +26,7 @@ Before running the project, ensure you have the following installed:
 npm install
 ```
 ### 3. Set up environment variables:
-  ```bash
-  MONGO_URI=mongodb://localhost:27017/your-database-namePORT=5000
-  ```
+
 ### 4.  Start the backend server:
   ```bash
   npm run dev
