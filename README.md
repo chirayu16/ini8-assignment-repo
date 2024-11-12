@@ -43,20 +43,20 @@ npm install
 
 
 ### 1. Navigate to the Frontend Repository
-    Move into the frontend folder within the project:
+Move into the frontend folder within the project:
 ```bash
 cd frontend/user-app
 ```
 
 ### 2. Install Frontend Dependencies
-    Install the necessary dependencies for the Angular project:
+Install the necessary dependencies for the Angular project:
 
 ```bash
 npm install
 ```
 
 ### 3. Run the Frontend
-    To start the Angular development server, run:
+To start the Angular development server, run:
 ```bash
 ng serve
 ```
