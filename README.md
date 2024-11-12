@@ -22,17 +22,17 @@ Before running the project, ensure you have the following installed:
    cd backend
    ```
 ### 2. Install dependencies:
-    ```bash
-    npm install
-    ```
+```bash
+npm install
+```
 ### 3. Set up environment variables:
-      ```bash
-      MONGO_URI=mongodb://localhost:27017/your-database-namePORT=5000
-      ```
+  ```bash
+  MONGO_URI=mongodb://localhost:27017/your-database-namePORT=5000
+  ```
 ### 4.  Start the backend server:
-      ```bash
-      npm run dev
-      ```
+  ```bash
+  npm run dev
+  ```
   The backend will be running on http://localhost:5000 
 
 # Frontend Setup Guide (Angular)
