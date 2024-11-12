@@ -1,4 +1,4 @@
-# Full Stack Application
+# User Register Application
 
 This project consists of a frontend built using Angular and a backend built with Node.js and Express. The backend uses MongoDB as its database. Follow the instructions below to set up and run both the frontend and backend on your local machine.
 
