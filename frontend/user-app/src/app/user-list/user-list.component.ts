@@ -70,7 +70,7 @@ export class UserListComponent implements OnInit {
     const dialogRef = this.dialog.open(UserFormComponent, {
       width: '600px',
       height: '500px',
-      data: user // Pass the user data if editing
+      data: user
     });
 
     dialogRef.afterClosed().subscribe(result => {
